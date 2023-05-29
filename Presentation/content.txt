@@ -1,0 +1,43 @@
+Slide o1
+    - e-survey
+
+Slide 02
+    - Evolution of Survey 
+        - Identically there were 4 stages which had past.
+        1. Paper Survey
+        2. Interviews
+        3. Google Sheets
+        4. e-survey
+Slide 03
+    - Features of Paper Survey
+        - disadvantages
+            - paper cost
+            - less audiance
+Slide 04
+    - Features of Interviews
+        - have a logic to flow of question
+        - disadvantages
+            - lot of people required for the big audiance
+            - time
+            - less audiance
+Slide 05
+    - Features of Google Sheets
+        - can cover big audiance
+        - form is sharing through a link
+        - disadvantages
+            - have a logic to flow of question
+Slide 06
+    - Introducing e-Survey
+        - big audiance
+        - a logic can be applied for q flow
+        - a digital output
+Slide 07
+    - test case 01
+        - describing the normal senario
+Slide 08
+    - test case 02
+        - Add a logic to user journey
+Slide 09
+    - test case 03
+        - Selecting Language
+        
