@@ -1,0 +1,35 @@
+- Project Name : Online Survey System
+
+
+
+- Overview/Introduction
+    give the importance of the survay
+    advantages of being large of the covering audiance
+    discus about the prevous stages of the survay (paper -> interview type -> google Sheets)
+
+- problem statement
+    mention all features which are containing in the project (as the problems you have identified) 
+
+
+-Related Work
+    reasons to select the project. (mention about the dificulities you faced for the project)
+
+- Methodology/Approach
+    hope to create a new onle survey system called e-survay
+    give new features which are including
+
+
+- Tools & Techniques
+    React JS
+    VS code
+    Google Spreadsheet
+    App Script - inside Google Spreadsheet
+
+
+- Time Schedule
+     Gantt chart
+
+
+- References
+    github
+    

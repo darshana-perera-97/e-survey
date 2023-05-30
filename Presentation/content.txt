@@ -1,5 +1,5 @@
 Slide o1
-    - e-survey
+    - Online Survey System
 
 Slide 02
     - Evolution of Survey 
