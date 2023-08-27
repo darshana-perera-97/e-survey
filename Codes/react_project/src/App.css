@@ -1,3 +1,8 @@
+* {
+  margin: 0px;
+  padding: 0px
+}
+
 .App {
   text-align: center;
 }
@@ -32,6 +37,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -39,24 +45,29 @@
 
 /* custom css classes */
 
+
 body {
   font-family: "Nunito Sans", sans-serif;
   font-weight: bolder;
   background-color: #17a5a51f;
 }
+
 .page {
   padding: 4% 0%;
   margin: 0% 12%;
   background-color: #ffffff;
 }
+
 .page1 {
   padding: 1% 0%;
   margin: -6% 12%;
   /* background-color: #ffffff; */
 }
+
 .page2 {
   padding: 0px 15%;
 }
+
 p {
   margin: 0px;
 }
@@ -74,6 +85,7 @@ p {
   border-radius: 15px;
   cursor: pointer;
 }
+
 .button_1_d {
   padding: 13px 70px;
   margin: 0px 0px;
@@ -86,16 +98,19 @@ p {
   width: 100%;
   border-radius: 15px;
 }
+
 .button_1:hover {
   background-color: #ffffff;
   color: #049ea1;
   border: 2px solid #049ea1;
   box-shadow: 0px 0px 5px #049ea1;
 }
+
 .d-center {
   display: flex;
   justify-content: center;
 }
+
 .button_2 {
   padding: 13px 40px;
   margin: 40px 0px;
@@ -109,11 +124,13 @@ p {
   text-align: center;
   cursor: pointer;
 }
+
 .button_2:hover {
   background-color: #ffffff;
   color: #049ea1;
   border: 2px solid #049ea160;
 }
+
 .button_3 {
   padding: 13px 40px;
   margin: 40px 0px;
@@ -126,9 +143,11 @@ p {
   text-align: end;
   cursor: not-allowed;
 }
+
 .input_field {
   margin-top: 15px;
 }
+
 .quastion {
   font-weight: 200;
 }
@@ -138,6 +157,7 @@ p {
   outline: 0px;
   width: 98%;
 }
+
 .input-field-box {
   border: 0.5px solid #049ea1;
   padding: 6px 10px;
@@ -175,24 +195,150 @@ input:active {
   border: 0px;
   outline: 0px;
 }
+
 select {
   border: 0px;
   outline: 0px;
   width: 100%;
 }
+
 .SingleQueForm {
   text-align: center;
   display: block;
 }
+
 .d-flex {
   display: flex;
 }
+
 .logo-text {
   font-size: 17px;
   color: #ffffff;
-  font-weight: 300;
+  font-weight: 500;
+  margin-bottom: 0px
 }
+
 .topBar {
   padding: 20px 80px;
   background: #049ea1;
+}
+
+
+.navBar {
+  background-color: teal;
+}
+
+.navBar img {
+  height: 3vw;
+}
+
+.navBar p {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 1.5vw;
+  margin-bottom: 0px;
+  opacity: 0.7;
+}
+
+.mainBannerLeft {
+  height: 14vw;
+  padding: 2vw;
+  margin-top: 5vw;
+  padding-left: 0px;
+  padding-bottom: 0px;
+}
+
+.mainBannerRight {
+  height: 35vw;
+  padding: 2vw;
+  margin-top: 5vw;
+
+}
+
+.mainbanner-left h2 {
+  font-weight: 700;
+  margin-top: 1vw;
+}
+
+.mainbanner-left button {
+  margin-top: 2vw;
+  padding: 0.6vw 2.5vw;
+  border: none;
+  background-color: teal;
+  color: #ffffff;
+  font-weight: 500;
+  border-radius: 4px;
+}
+
+.mainBanner {
+  background-image: url('./Assets/mainbannerBackground.png');
+  background-size: 100vw;
+}
+
+hr {
+  margin-top: 2vw;
+}
+
+.content h1 {
+  font-weight: 700;
+  color: teal;
+}
+
+.features {
+  height: 15vw;
+  margin: 3vw;
+}
+
+.test1 {
+  height: 15vw;
+  margin: 3vw;
+}
+
+li {
+  margin-bottom: 1vw;
+}
+
+.content a {
+  margin-top: 5vw;
+  padding: 1vw 2.5vw;
+  border: none;
+  background-color: teal;
+  color: #ffffff;
+  font-weight: 500;
+  border-radius: 4px;
+  text-decoration: none
+}
+
+.lastPage p {
+  text-align: center;
+  font-size: 2vw;
+  margin-top: 2vw;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.lastPage button {
+  margin-top: 5vw !important;
+  padding: 1vw 2.5vw;
+  border: none;
+  background-color: teal;
+  color: #ffffff;
+  font-weight: 500;
+  border-radius: 4px;
+  text-decoration: none
+}
+
+.lastPage h6 {
+  margin: 3vw;
+}
+
+.lastPage h6 a {
+  color: teal;
+  text-decoration: none;
+}
+.testcase{
+  margin-bottom: 3vw;
 }

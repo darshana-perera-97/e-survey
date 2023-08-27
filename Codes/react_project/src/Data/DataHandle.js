@@ -19,3 +19,5 @@ export function dataStore(data) {
       console.log("err");
     });
 }
+
+// https://docs.google.com/spreadsheets/d/1bomLSbm20f9YBaCtaKL37w8TUsgLviM14jx_swTCHGA/edit#gid=0
